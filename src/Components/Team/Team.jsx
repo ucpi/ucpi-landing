@@ -52,18 +52,7 @@ const Team = () => {
             */}
           </div>
 
-          <div className="member">
-            <div className="img-wrapper">
-              <img src={pranjal} alt="Pranjal Maurya" />
-            </div>
-            <h1>Pranjal Maurya</h1>
-            <p>Co-Founder, CTO</p>
-            <div className="links">
-              <a href="https://www.linkedin.com/in/0xpranjl/" target="_blank" rel="noopener noreferrer">
-                <i className="fa-brands fa-linkedin"></i>
-              </a>
-            </div>
-          </div>
+
         </div>
       </div>
     </section>

@@ -28,7 +28,7 @@ const Footer = () => {
           </a>
           <a href="">Discord</a>
         </div>
-        <p>© 2022 @ucpi. All right reserved.</p>
+        <p>© 2025 @ucpi. All right reserved.</p>
       </div>
     </footer>
   );

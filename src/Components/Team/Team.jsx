@@ -41,7 +41,7 @@ const Team = () => {
             </div>
             <h1>Aditya Singh Rathore</h1>
             <p>Co-Founder, CPO</p>
-            <p>[IIT Sirimour]</p>
+            <p>[IIM Sirimour]</p>
             {/* 
             <div className="links">
               <a href="https://www.linkedin.com/in/adityarathore/" target="_blank" rel="noopener noreferrer">

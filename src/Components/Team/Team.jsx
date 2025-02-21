@@ -22,6 +22,7 @@ const Team = () => {
             </div>
             <h1>Digendra Singh Rathore</h1>
             <p>Co-Founder, CEO</p>
+            <p>[IIT Roorkee]</p>
             {/* 
             <div className="links">
               <a href="https://www.linkedin.com/in/dsriitr/" target="_blank" rel="noopener noreferrer">
@@ -36,10 +37,11 @@ const Team = () => {
 
           <div className="member">
             <div className="img-wrapper">
-              <img src={adithya} alt="Adithya Singh Rathore" />
+              <img src={adithya} alt="Aditya Singh Rathore" />
             </div>
-            <h1>Adithya Singh Rathore</h1>
+            <h1>Aditya Singh Rathore</h1>
             <p>Co-Founder, CPO</p>
+            <p>[IIT Sirimour]</p>
             {/* 
             <div className="links">
               <a href="https://www.linkedin.com/in/adityarathore/" target="_blank" rel="noopener noreferrer">

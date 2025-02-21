@@ -18,56 +18,54 @@ const Team = () => {
         <div className="member-container">
           <div className="member">
             <div className="img-wrapper">
-              <img src={digendra} alt="" />
+              <img src={digendra} alt="Digendra Singh Rathore" />
             </div>
             <h1>Digendra Singh Rathore</h1>
             <p>Co-Founder, CEO</p>
-{/*             <div className="links">
-              <a href="https://www.linkedin.com/in/dsriitr/" target="_blank">
+            {/* 
+            <div className="links">
+              <a href="https://www.linkedin.com/in/dsriitr/" target="_blank" rel="noopener noreferrer">
                 <i className="fa-brands fa-linkedin"></i>
               </a>
-              <a
-                href="https://twitter.com/dsr_iitr?t=KaGZ1oNXOZZNjPTk-Pa8IQ&s=08"
-                target="_blank"
-              >
+              <a href="https://twitter.com/dsr_iitr?t=KaGZ1oNXOZZNjPTk-Pa8IQ&s=08" target="_blank" rel="noopener noreferrer">
                 <i className="fa-brands fa-twitter"></i>
               </a>
-            </div> */}
+            </div> 
+            */}
           </div>
+
           <div className="member">
             <div className="img-wrapper">
-              <img src={adithya} alt="" />
+              <img src={adithya} alt="Adithya Singh Rathore" />
             </div>
             <h1>Adithya Singh Rathore</h1>
             <p>Co-Founder, CPO</p>
-{/*             <div className="links">
-              <a
-                href="https://www.linkedin.com/in/adityarathore/"
-                target="_blank"
-              >
+            {/* 
+            <div className="links">
+              <a href="https://www.linkedin.com/in/adityarathore/" target="_blank" rel="noopener noreferrer">
                 <i className="fa-brands fa-linkedin"></i>
               </a>
-              <a
-                href="https://twitter.com/adie_raro?t=JiSibwOrIxAO_c82xNe-bA&s=08"
-                target="_blank"
-              >
+              <a href="https://twitter.com/adie_raro?t=JiSibwOrIxAO_c82xNe-bA&s=08" target="_blank" rel="noopener noreferrer">
                 <i className="fa-brands fa-twitter"></i>
-              </a> */}
-            </div>
+              </a>
+            </div> 
+            */}
           </div>
-{/*           <div className="member">
+
+          <div className="member">
             <div className="img-wrapper">
-              <img src={pranjal} alt="" />
+              <img src={pranjal} alt="Pranjal Maurya" />
             </div>
             <h1>Pranjal Maurya</h1>
             <p>Co-Founder, CTO</p>
             <div className="links">
-              <a href="https://www.linkedin.com/in/0xpranjl/" target="_blank">
+              <a href="https://www.linkedin.com/in/0xpranjl/" target="_blank" rel="noopener noreferrer">
                 <i className="fa-brands fa-linkedin"></i>
               </a>
             </div>
-          </div> */}
-
+          </div>
+        </div>
+      </div>
     </section>
   );
 };

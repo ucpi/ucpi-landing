@@ -22,7 +22,7 @@ const Team = () => {
             </div>
             <h1>Digendra Singh Rathore</h1>
             <p>Co-Founder, CEO</p>
-            <div className="links">
+{/*             <div className="links">
               <a href="https://www.linkedin.com/in/dsriitr/" target="_blank">
                 <i className="fa-brands fa-linkedin"></i>
               </a>
@@ -32,7 +32,7 @@ const Team = () => {
               >
                 <i className="fa-brands fa-twitter"></i>
               </a>
-            </div>
+            </div> */}
           </div>
           <div className="member">
             <div className="img-wrapper">
@@ -40,7 +40,7 @@ const Team = () => {
             </div>
             <h1>Adithya Singh Rathore</h1>
             <p>Co-Founder, CPO</p>
-            <div className="links">
+{/*             <div className="links">
               <a
                 href="https://www.linkedin.com/in/adityarathore/"
                 target="_blank"
@@ -52,10 +52,10 @@ const Team = () => {
                 target="_blank"
               >
                 <i className="fa-brands fa-twitter"></i>
-              </a>
+              </a> */}
             </div>
           </div>
-          <div className="member">
+{/*           <div className="member">
             <div className="img-wrapper">
               <img src={pranjal} alt="" />
             </div>
@@ -66,7 +66,7 @@ const Team = () => {
                 <i className="fa-brands fa-linkedin"></i>
               </a>
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
     </section>
